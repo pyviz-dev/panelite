@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-22T00:33:22.579362Z",
+      "format": null,
+      "last_modified": "2022-03-22T00:25:02.374313Z",
+      "mimetype": null,
+      "name": "Notifications.ipynb",
+      "path": "panel/reference/global/Notifications.ipynb",
+      "size": 6483,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-22T00:33:22.578896Z",
+  "format": "json",
+  "last_modified": "2022-03-22T00:33:22.578896Z",
+  "mimetype": null,
+  "name": "global",
+  "path": "panel/reference/global",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

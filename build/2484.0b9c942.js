@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_JUPYTERLAB_CORE_OUTPUT=self.webpackChunk_JUPYTERLAB_CORE_OUTPUT||[]).push([[2484],{72484:(T,U,_)=>{_.d(U,{N:()=>e});var e="1.5.0"}}]);
+//# sourceMappingURL=2484.0b9c942.js.map
