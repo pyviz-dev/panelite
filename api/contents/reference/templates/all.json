@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.284596Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.093266Z",
+      "mimetype": null,
+      "name": "FastGridTemplate.ipynb",
+      "path": "reference/templates/FastGridTemplate.ipynb",
+      "size": 10029,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.285159Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.095783Z",
+      "mimetype": null,
+      "name": "FastListTemplate.ipynb",
+      "path": "reference/templates/FastListTemplate.ipynb",
+      "size": 9016,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.281938Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.098165Z",
+      "mimetype": null,
+      "name": "Bootstrap.ipynb",
+      "path": "reference/templates/Bootstrap.ipynb",
+      "size": 5958,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.286183Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.100676Z",
+      "mimetype": null,
+      "name": "Material.ipynb",
+      "path": "reference/templates/Material.ipynb",
+      "size": 5987,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.286556Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.103719Z",
+      "mimetype": null,
+      "name": "React.ipynb",
+      "path": "reference/templates/React.ipynb",
+      "size": 7396,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.286910Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.106364Z",
+      "mimetype": null,
+      "name": "Vanilla.ipynb",
+      "path": "reference/templates/Vanilla.ipynb",
+      "size": 5848,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-15T12:31:53.285663Z",
+      "format": null,
+      "last_modified": "2022-04-15T12:18:23.108974Z",
+      "mimetype": null,
+      "name": "GoldenLayout.ipynb",
+      "path": "reference/templates/GoldenLayout.ipynb",
+      "size": 6377,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-15T12:31:53.286722Z",
+  "format": "json",
+  "last_modified": "2022-04-15T12:31:53.286722Z",
+  "mimetype": null,
+  "name": "templates",
+  "path": "reference/templates",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

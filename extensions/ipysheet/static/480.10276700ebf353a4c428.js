@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkipysheet=self.webpackChunkipysheet||[]).push([[480],{4480:(e,t,i)=>{i.r(t),i.d(t,{default:()=>a});var s=i(6728),r=i(8657),p=i(1448);const a={id:"ipysheet:plugin",autoStart:!0,requires:[s.IJupyterWidgetRegistry],activate:(e,t)=>{t.registerWidget({name:"ipysheet",version:r.i,exports:p})}}}}]);
